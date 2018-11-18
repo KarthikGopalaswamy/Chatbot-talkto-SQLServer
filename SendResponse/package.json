@@ -1,0 +1,21 @@
+{
+  "name": "Chatbot-talkto-SQLServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "local.js",
+  "scripts": {
+    "start": "nodemon local.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGopalaswamy/Chatbot-talkto-SQLServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.310.0",
+    "request": "^2.85.0",
+    "tedious": "^2.3.1"
+  }
+}
